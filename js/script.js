@@ -1,4 +1,4 @@
-// All logics go here
+// All logics goes here
 const button = document.getElementById('btn');
 const msg = document.getElementById('message');
 const colors = ['#f44336', '#e91e63', '#9c27b0', '#3f51b5', '#009688', '#ff9800'];//Array of custom screen colors
